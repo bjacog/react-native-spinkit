@@ -1,7 +1,7 @@
 #import "RNSpinkit.h"
-#import <React/RCTConvert.h>
-#import <React/RCTBridgeModule.h>
-#import <React/UIView+React.h>
+#import "RCTConvert.h"
+#import "RCTBridgeModule.h"
+#import "UIView+React.h"
 
 @implementation RNSpinkit
 {

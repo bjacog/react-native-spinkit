@@ -1,6 +1,6 @@
 #import "RNSpinkitManager.h"
 #import "RNSpinkit.h"
-#import <React/RCTBridge.h>
+#import "RCTBridge.h"
 
 @implementation RNSpinkitManager
 
